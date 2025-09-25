@@ -1,7 +1,7 @@
 export type CountDTO = {
     ENDERECO: string;
-    CODPROD: string;
-    QTD_PRODUCT: string;
+    REFERENCIA: string;
+    QTD: string;
     VALIDADE: string;
     NOMEUSU: string;
 }
